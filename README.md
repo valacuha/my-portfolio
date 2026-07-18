@@ -11,7 +11,7 @@
 - **Инструменты:** VS Code, Sublime Text, Figma.
 
 ## 📷 Моё фото / Любимое изображение
-<img src="https://www.facebook.com/photo/?fbid=10163788115618894&set=a.463586368893">
+https://www.facebook.com/photo/?fbid=10163788115618894&set=a.463586368893
 
 ## 📬 Как со мной связаться
 - https://github.com/valacuha
